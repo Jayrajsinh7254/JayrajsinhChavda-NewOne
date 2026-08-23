@@ -1,24 +1,31 @@
-vCard - Personal Portfolio
+Jayrajsinh Chavda | Founder, Dev Tech Services | Web Development & Digital Growth Partner
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+Jayrajsinh Chavda
+Founder, Dev Tech Services
 
 Show Contacts
 
-Email
-richard@example.com
+Agency Email
+devtechservicesindia@gmail.com
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+Phone / WhatsApp
++91 95373 70561
 
 Location
-Sacramento, California, USA
+Ahmedabad, Gujarat, India
+
+Company Website
+devtechservicesindia.com
+
+Social Links
+- WhatsApp: https://wa.me/919537370561
+- LinkedIn: https://www.linkedin.com/in/jayrajsinh-chavda-82116825b/
+- Instagram: https://instagram.com/
+- GitHub: https://github.com/Jayrajsinh7254
+
+
 
 # navbar
 
@@ -28,62 +35,80 @@ Portfolio
 Blog
 Contact
 
+
+
 # about
 
-About me
+About Me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm the founder of Dev Tech Services, a web development and digital growth agency based in Ahmedabad, India. My team and I help startups and businesses build professional websites, powerful online stores, and creative branding that turn their ideas into digital reality.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+With a background in frontend development (React.js, JavaScript, Tailwind CSS) and hands-on experience managing client projects end-to-end, I combine technical execution with clear communication and reliable delivery — so clients get both quality work and a smooth process.
 
 
-## service
+## why work with me
 
-What i'm doing
+Why Work With Me
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+- Tailored Business Solutions
+Solutions tailored to fit your specific business goals, not one-size-fits-all generic templates.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+- Fast & Reliable Delivery
+Fast project delivery without cutting corners on code quality, security, or design responsiveness.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+- Transparent Upfront Pricing
+Clear, upfront pricing with milestone-based agreements and zero hidden costs.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+- Ongoing Post-Launch Support
+Ongoing support and maintenance after launch — I stay easily reachable after the project ships.
+
+
+## services
+
+Services
+
+- Website Development
+Custom, responsive websites built for speed, security, and a smooth user experience across all devices.
+
+- Web Applications & Custom Software
+Tailored web apps and custom business tools built around your team's specific workflow.
+
+- UI/UX & Website Design
+Modern, user-friendly design that builds trust, strengthens brand identity, and keeps visitors engaged.
+
+- E-Commerce Websites
+Online stores designed to sell more, with secure payment integrations, order flows, and mobile-friendly layouts.
+
+- WhatsApp & Social Media Marketing
+Direct, high-engagement WhatsApp campaigns and social media management to reach and convert customers.
+
+- Website Maintenance & Support
+Ongoing updates, performance optimization, and technical support to keep your site running smoothly.
 
 
 ## testimonials
 
-Testimonials
+What Clients Say
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+- Vanrajsinh Vaghela (CEO, Bullet World)
+“From design to final launch, the process was smooth and well-managed. Highly satisfied with the overall experience.”
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+- Manyata Ashra (Market Team, VBL)
+“Great communication and timely delivery. They understood our requirements clearly and executed everything professionally.”
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+- Bhaveshbhai Maldhari (Trusty, Dabhoda)
+“Their team helped us with branding and website development. The results were simple, effective, and aligned with our vision.”
 
 
-## clients
+## clients & brands
 
-Clients
+Clients & Brands
 
-alt = client logo
+- Shree Dabhoda Hanumanji Mandir Trust
+- Bullet World
+- Pepsi
+- Car World
+- Varun Beverages Limited (VBL)
 
 
 
@@ -91,150 +116,158 @@ alt = client logo
 
 Resume
 
+## leadership & experience
+
+Leadership & Experience
+
+- Founder & Lead Developer — Dev Tech Services
+2024 — Present
+• Founded and manage Dev Tech Services, delivering custom websites, e-commerce stores, and digital growth solutions for startups and businesses.
+• Oversee end-to-end client project lifecycles from requirement scoping and UI/UX design to modern React/Tailwind frontend execution and deployment.
+• Implement conversion-driven marketing campaigns including direct WhatsApp marketing and strategic digital outreach.
+
+- Machine Learning - Internship — Acmegrade Pvt. Ltd.
+June 2025 — August 2025
+• Assisted in developing machine learning models for data analysis and predictive workflows.
+• Studied various ML algorithms and developed projects using Python and ML libraries.
+• Collaborated with team members to implement and integrate ML models in web applications.
+
+- Web Developer (Frontend Internship) — NovusCode
+10/01/2023 — 10/07/2023
+• Developed and implemented responsive frontend solutions utilizing HTML, CSS, JavaScript, and ReactJS with Bootstrap.
+• Contributed to live client web development projects, applying responsive design principles and modern frontend architecture.
+
+
+## education
+
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+- Aditya Silver Oak University
+2023 — 2026 (Expected)
+B Tech in Information Technology
+Pursuing Bachelor of Technology in Information Technology, focusing on software engineering, web architectures, algorithms, and scalable systems.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+- Aditya Silver Oak University
+2020 — 2023
+Diploma in Information Technology (8.36 CGPA)
+Graduated with distinction (8.36 CGPA), establishing strong fundamentals in computer programming, database systems, web development, and problem-solving.
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
-Experience
+## certifications & achievements
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Certifications & Achievements
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+- Problem Solving & Coding Challenges (Achievement)
+Solved over 100+ coding challenges across various competitive platforms, improving analytical logic and algorithm optimization.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+- AI Support Internship — EY x Microsoft (Certified Online)
+Completed AI Support internship exploring modern artificial intelligence tools, machine intelligence foundations, and cloud workflows.
 
-My skills
+- DMCP Course — Mark Computer C-DAC (Certified)
+Completed comprehensive diploma covering C, C++, JAVA, and HTML programming languages.
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
+
+## key capabilities
+
+Key Capabilities
+
+- Website Development & Frameworks (React.js, Next.js, Tailwind CSS): 95%
+- UI/UX & Responsive Design: 92%
+- E-Commerce Websites (Shopify & WordPress): 90%
+- Client Project Management & Delivery: 92%
+- WhatsApp & Digital Growth Marketing: 85%
+- Python & Machine Learning (Data Analysis): 75%
 
 
 
 # portfolio
 
-Portfolio
+Selected Work
 
-All
-Web design
-Applications
-Web development
+Filters:
+- All
+- Web development
+- Applications
 
-Select category
-All
-Web design
-Applications
-Web development
+Projects:
 
-alt = finance
-Finance
-Web development
+1. Visa Assist — Company Website
+Category: Web development
+Details: Service listings, inquiry forms, dynamic content
+Link: https://devvisaassist.netlify.app/
 
-alt = orizon
-Orizon
-Web development
+2. Dev Tech Services — Official Website
+Category: Web development
+Details: Agency showcase, client reviews & lead generation
+Link: https://devtechservicesindia.com
 
-alt = fundo
-Fundo
-Web design
+3. Personal Portfolio Website
+Category: Web development
+Details: Modern UI/UX, smooth animations & contact integration
+Link: https://jayrajsinh-portfolio.netlify.app/
 
-alt = brawlhalla
-Brawlhalla
-Applications
+4. E-Commerce & Online Storefronts
+Category: Web development
+Details: Shopify & custom stores, secure payments & mobile UX
+Link: https://devtechservicesindia.com
 
-alt = dsm.
-DSM.
-Web design
+5. Custom Business Web Apps & Tools
+Category: Applications
+Details: Tailored business automation & custom workflow software
+Link: https://devtechservicesindia.com
 
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
+6. 100+ Algorithmic Solutions
+Category: Applications
+Details: Problem Solving, Data Structures & Logic
+Link: https://github.com/Jayrajsinh7254
 
 
 
 # blog
 
-Blog
+Articles & Insights
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+1. Why Every Growing Business Needs a Custom Website in 2024
+Category: Digital Growth • Jan 15, 2024
+Description: How high-speed custom web architectures build customer trust and significantly outperform generic templates.
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+2. How WhatsApp Marketing Drives 3x More Customer Conversions
+Category: E-Commerce • Feb 20, 2024
+Description: Strategies for setting up direct, high-engagement customer acquisition and retention flows on WhatsApp.
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+3. From Scoping to Launch: How We Deliver High-Impact Client Projects
+Category: Agency Process • Mar 10, 2024
+Description: A look inside the Dev Tech Services workflow: transparent milestones, rapid execution, and zero surprises.
 
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+4. UI/UX Principles That Turn Website Visitors into Clients
+Category: UI / UX • Apr 05, 2024
+Description: Creating clear visual hierarchies, conversion-focused contact flows, and seamless mobile responsiveness.
 
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+5. Why React.js & Tailwind CSS Outperform Traditional CMS
+Category: Tech Architecture • May 12, 2024
+Description: Why modern frontend frameworks deliver unmatched speed, security, and flexibility for business websites.
 
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+6. The Value of Ongoing Post-Launch Website Support
+Category: Maintenance • Jun 18, 2024
+Description: Why continuous updates, security patches, and performance optimizations keep your revenue flowing.
 
 
 
 # contact
 
-Contact
+Let's Work Together
 
-Contact Form
+Description:
+Have a project in mind? I'd love to hear about it — reach out via phone, email, or WhatsApp, or visit devtechservicesindia.com to get started.
 
-Full name
-Email address
-Your Message
+Quick Action:
+- Quick Chat on WhatsApp: https://wa.me/919537370561 (+91 95373 70561)
 
-Send Message
+Location:
+Ahmedabad, Gujarat, India
+
+Send a Message Form:
+- Full name
+- Email address
+- Message ("Tell me about your project or inquiry...")
+- Send Message Button
