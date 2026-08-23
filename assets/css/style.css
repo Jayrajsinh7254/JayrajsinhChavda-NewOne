@@ -511,7 +511,6 @@ main {
 .navbar-link.active {
   color: var(--orange-yellow-crayola);
   font-weight: var(--fw-600);
-  background: hsla(45, 100%, 72%, 0.08);
 }
 
 .navbar-link.active::after {
