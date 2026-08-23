@@ -1,16 +1,17 @@
-Jayrajsinh Chavda | Founder, Dev Tech Services | Web Development & Digital Growth Partner
+vCard - Personal Portfolio
 
 # sidebar
 
+alt = Jayrajsinh Chavda
 Jayrajsinh Chavda
 Founder, Dev Tech Services
 
 Show Contacts
 
-Agency Email
+Email
 devtechservicesindia@gmail.com
 
-Phone / WhatsApp
+Phone
 +91 95373 70561
 
 Location
@@ -18,14 +19,6 @@ Ahmedabad, Gujarat, India
 
 Company Website
 devtechservicesindia.com
-
-Social Links
-- WhatsApp: https://wa.me/919537370561
-- LinkedIn: https://www.linkedin.com/in/jayrajsinh-chavda-82116825b/
-- Instagram: https://instagram.com/
-- GitHub: https://github.com/Jayrajsinh7254
-
-
 
 # navbar
 
@@ -35,11 +28,9 @@ Portfolio
 Blog
 Contact
 
-
-
 # about
 
-About Me
+About me
 
 I'm the founder of Dev Tech Services, a web development and digital growth agency based in Ahmedabad, India. My team and I help startups and businesses build professional websites, powerful online stores, and creative branding that turn their ideas into digital reality.
 
@@ -50,39 +41,45 @@ With a background in frontend development (React.js, JavaScript, Tailwind CSS) a
 
 Why Work With Me
 
-- Tailored Business Solutions
+Tailored Business Solutions
 Solutions tailored to fit your specific business goals, not one-size-fits-all generic templates.
 
-- Fast & Reliable Delivery
+Fast & Reliable Delivery
 Fast project delivery without cutting corners on code quality, security, or design responsiveness.
 
-- Transparent Upfront Pricing
+Transparent Upfront Pricing
 Clear, upfront pricing with milestone-based agreements and zero hidden costs.
 
-- Ongoing Post-Launch Support
+Ongoing Post-Launch Support
 Ongoing support and maintenance after launch — I stay easily reachable after the project ships.
 
 
-## services
+## service
 
 Services
 
-- Website Development
+alt = website development icon
+Website Development
 Custom, responsive websites built for speed, security, and a smooth user experience across all devices.
 
-- Web Applications & Custom Software
+alt = web applications icon
+Web Applications & Custom Software
 Tailored web apps and custom business tools built around your team's specific workflow.
 
-- UI/UX & Website Design
+alt = ui ux design icon
+UI/UX & Website Design
 Modern, user-friendly design that builds trust, strengthens brand identity, and keeps visitors engaged.
 
-- E-Commerce Websites
+alt = e-commerce icon
+E-Commerce Websites
 Online stores designed to sell more, with secure payment integrations, order flows, and mobile-friendly layouts.
 
-- WhatsApp & Social Media Marketing
+alt = social media marketing icon
+WhatsApp & Social Media Marketing
 Direct, high-engagement WhatsApp campaigns and social media management to reach and convert customers.
 
-- Website Maintenance & Support
+alt = maintenance support icon
+Website Maintenance & Support
 Ongoing updates, performance optimization, and technical support to keep your site running smoothly.
 
 
@@ -90,25 +87,40 @@ Ongoing updates, performance optimization, and technical support to keep your si
 
 What Clients Say
 
-- Vanrajsinh Vaghela (CEO, Bullet World)
-“From design to final launch, the process was smooth and well-managed. Highly satisfied with the overall experience.”
+alt = Vanrajsinh Vaghela
+Vanrajsinh Vaghela
+From design to final launch, the process was smooth and well-managed. Highly satisfied with the overall experience.
+— Vanrajsinh Vaghela, CEO, Bullet World
 
-- Manyata Ashra (Market Team, VBL)
-“Great communication and timely delivery. They understood our requirements clearly and executed everything professionally.”
+alt = Manyata Ashra
+Manyata Ashra
+Great communication and timely delivery. They understood our requirements clearly and executed everything professionally.
+— Manyata Ashra, Market Team, VBL
 
-- Bhaveshbhai Maldhari (Trusty, Dabhoda)
-“Their team helped us with branding and website development. The results were simple, effective, and aligned with our vision.”
+alt = Bhaveshbhai Maldhari
+Bhaveshbhai Maldhari
+Their team helped us with branding and website development. The results were simple, effective, and aligned with our vision.
+— Bhaveshbhai Maldhari, Trusty, Dabhoda
 
 
-## clients & brands
+## clients
 
 Clients & Brands
 
-- Shree Dabhoda Hanumanji Mandir Trust
-- Bullet World
-- Pepsi
-- Car World
-- Varun Beverages Limited (VBL)
+alt = Dabhoda
+Dabhoda
+
+alt = Bullet World
+Bullet World
+
+alt = Pepsi
+Pepsi
+
+alt = Car World
+Car World
+
+alt = Varun Beverages Limited
+Varun Beverages Limited
 
 
 
@@ -116,158 +128,164 @@ Clients & Brands
 
 Resume
 
-## leadership & experience
-
 Leadership & Experience
 
-- Founder & Lead Developer — Dev Tech Services
+Founder & Lead Developer — Dev Tech Services
 2024 — Present
 • Founded and manage Dev Tech Services, delivering custom websites, e-commerce stores, and digital growth solutions for startups and businesses.
 • Oversee end-to-end client project lifecycles from requirement scoping and UI/UX design to modern React/Tailwind frontend execution and deployment.
 • Implement conversion-driven marketing campaigns including direct WhatsApp marketing and strategic digital outreach.
 
-- Machine Learning - Internship — Acmegrade Pvt. Ltd.
+Machine Learning - Internship — Acmegrade Pvt. Ltd.
 June 2025 — August 2025
 • Assisted in developing machine learning models for data analysis and predictive workflows.
 • Studied various ML algorithms and developed projects using Python and ML libraries.
 • Collaborated with team members to implement and integrate ML models in web applications.
 
-- Web Developer (Frontend Internship) — NovusCode
+Web Developer (Frontend Internship) — NovusCode
 10/01/2023 — 10/07/2023
 • Developed and implemented responsive frontend solutions utilizing HTML, CSS, JavaScript, and ReactJS with Bootstrap.
 • Contributed to live client web development projects, applying responsive design principles and modern frontend architecture.
 
-
-## education
-
 Education
 
-- Aditya Silver Oak University
+Aditya Silver Oak University
 2023 — 2026 (Expected)
 B Tech in Information Technology
 Pursuing Bachelor of Technology in Information Technology, focusing on software engineering, web architectures, algorithms, and scalable systems.
 
-- Aditya Silver Oak University
+Aditya Silver Oak University
 2020 — 2023
 Diploma in Information Technology (8.36 CGPA)
 Graduated with distinction (8.36 CGPA), establishing strong fundamentals in computer programming, database systems, web development, and problem-solving.
 
-
-## certifications & achievements
-
 Certifications & Achievements
 
-- Problem Solving & Coding Challenges (Achievement)
+Problem Solving & Coding Challenges
+Achievement
 Solved over 100+ coding challenges across various competitive platforms, improving analytical logic and algorithm optimization.
 
-- AI Support Internship — EY x Microsoft (Certified Online)
+AI Support Internship — EY x Microsoft
+Certified Online
 Completed AI Support internship exploring modern artificial intelligence tools, machine intelligence foundations, and cloud workflows.
 
-- DMCP Course — Mark Computer C-DAC (Certified)
+DMCP Course — Mark Computer C-DAC
+Certified
 Completed comprehensive diploma covering C, C++, JAVA, and HTML programming languages.
-
-
-## key capabilities
 
 Key Capabilities
 
-- Website Development & Frameworks (React.js, Next.js, Tailwind CSS): 95%
-- UI/UX & Responsive Design: 92%
-- E-Commerce Websites (Shopify & WordPress): 90%
-- Client Project Management & Delivery: 92%
-- WhatsApp & Digital Growth Marketing: 85%
-- Python & Machine Learning (Data Analysis): 75%
+Website Development & Frameworks (React.js, Next.js, Tailwind CSS)
+95%
+
+UI/UX & Responsive Design
+92%
+
+E-Commerce Websites (Shopify & WordPress)
+90%
+
+Client Project Management & Delivery
+92%
+
+WhatsApp & Digital Growth Marketing
+85%
+
+Python & Machine Learning (Data Analysis)
+75%
 
 
 
 # portfolio
 
-Selected Work
+Portfolio
 
-Filters:
-- All
-- Web development
-- Applications
+All
+Web development
+Applications
 
-Projects:
+Select category
+All
+Web development
+Applications
 
-1. Visa Assist — Company Website
-Category: Web development
-Details: Service listings, inquiry forms, dynamic content
-Link: https://devvisaassist.netlify.app/
+alt = Visa Assist
+Visa Assist — Company Website
+Web development • Service listings, inquiry forms, dynamic content
 
-2. Dev Tech Services — Official Website
-Category: Web development
-Details: Agency showcase, client reviews & lead generation
-Link: https://devtechservicesindia.com
+alt = Dev Tech Services
+Dev Tech Services — Official Website
+Web development • Agency showcase, client reviews & lead generation
 
-3. Personal Portfolio Website
-Category: Web development
-Details: Modern UI/UX, smooth animations & contact integration
-Link: https://jayrajsinh-portfolio.netlify.app/
+alt = Personal Portfolio
+Personal Portfolio Website
+Web development • Modern UI/UX, smooth animations & contact integration
 
-4. E-Commerce & Online Storefronts
-Category: Web development
-Details: Shopify & custom stores, secure payments & mobile UX
-Link: https://devtechservicesindia.com
+alt = E-Commerce Storefronts
+E-Commerce & Online Storefronts
+Web development • Shopify & custom stores, secure payments & mobile UX
 
-5. Custom Business Web Apps & Tools
-Category: Applications
-Details: Tailored business automation & custom workflow software
-Link: https://devtechservicesindia.com
+alt = Custom Software & Web Tools
+Custom Business Web Apps & Tools
+Applications • Tailored business automation & custom workflow software
 
-6. 100+ Algorithmic Solutions
-Category: Applications
-Details: Problem Solving, Data Structures & Logic
-Link: https://github.com/Jayrajsinh7254
+alt = 100+ Coding Solutions
+100+ Algorithmic Solutions
+Applications • Problem Solving, Data Structures & Logic
 
 
 
 # blog
 
-Articles & Insights
+Blog
 
-1. Why Every Growing Business Needs a Custom Website in 2024
-Category: Digital Growth • Jan 15, 2024
-Description: How high-speed custom web architectures build customer trust and significantly outperform generic templates.
+alt = Why Every Growing Business Needs a Custom Website in 2024
+Digital Growth
+Jan 15, 2024
+Why Every Growing Business Needs a Custom Website in 2024
+How high-speed custom web architectures build customer trust and significantly outperform generic templates.
 
-2. How WhatsApp Marketing Drives 3x More Customer Conversions
-Category: E-Commerce • Feb 20, 2024
-Description: Strategies for setting up direct, high-engagement customer acquisition and retention flows on WhatsApp.
+alt = Scaling E-Commerce Conversions
+E-Commerce
+Feb 20, 2024
+How WhatsApp Marketing Drives 3x More Customer Conversions
+Strategies for setting up direct, high-engagement customer acquisition and retention flows on WhatsApp.
 
-3. From Scoping to Launch: How We Deliver High-Impact Client Projects
-Category: Agency Process • Mar 10, 2024
-Description: A look inside the Dev Tech Services workflow: transparent milestones, rapid execution, and zero surprises.
+alt = From Scoping to Launch
+Agency Process
+Mar 10, 2024
+From Scoping to Launch: How We Deliver High-Impact Client Projects
+A look inside the Dev Tech Services workflow: transparent milestones, rapid execution, and zero surprises.
 
-4. UI/UX Principles That Turn Website Visitors into Clients
-Category: UI / UX • Apr 05, 2024
-Description: Creating clear visual hierarchies, conversion-focused contact flows, and seamless mobile responsiveness.
+alt = UI/UX Principles that Sell
+UI / UX
+Apr 05, 2024
+UI/UX Principles That Turn Website Visitors into Clients
+Creating clear visual hierarchies, conversion-focused contact flows, and seamless mobile responsiveness.
 
-5. Why React.js & Tailwind CSS Outperform Traditional CMS
-Category: Tech Architecture • May 12, 2024
-Description: Why modern frontend frameworks deliver unmatched speed, security, and flexibility for business websites.
+alt = Modern Tech Stacks
+Tech Architecture
+May 12, 2024
+Why React.js & Tailwind CSS Outperform Traditional CMS
+Why modern frontend frameworks deliver unmatched speed, security, and flexibility for business websites.
 
-6. The Value of Ongoing Post-Launch Website Support
-Category: Maintenance • Jun 18, 2024
-Description: Why continuous updates, security patches, and performance optimizations keep your revenue flowing.
+alt = Website Maintenance
+Maintenance
+Jun 18, 2024
+The Value of Ongoing Post-Launch Website Support
+Why continuous updates, security patches, and performance optimizations keep your revenue flowing.
 
 
 
 # contact
 
+Contact
+
 Let's Work Together
 
-Description:
-Have a project in mind? I'd love to hear about it — reach out via phone, email, or WhatsApp, or visit devtechservicesindia.com to get started.
+Contact Form
 
-Quick Action:
-- Quick Chat on WhatsApp: https://wa.me/919537370561 (+91 95373 70561)
+Full name
+Email address
+Your Message
 
-Location:
-Ahmedabad, Gujarat, India
-
-Send a Message Form:
-- Full name
-- Email address
-- Message ("Tell me about your project or inquiry...")
-- Send Message Button
+Send Message
