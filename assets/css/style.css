@@ -785,15 +785,30 @@ main {
 .clients-item {
   min-width: 50%;
   scroll-snap-align: start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clients-item a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .clients-item img {
   width: 100%;
-  filter: grayscale(1);
-  transition: var(--transition-1);
+  max-height: 80px;
+  object-fit: contain;
+  opacity: 0.75;
+  transition: opacity var(--transition-1), transform var(--transition-1);
 }
 
-.clients-item img:hover { filter: grayscale(0); }
+.clients-item img:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
 
 
 
