@@ -1880,3 +1880,97 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+
+
+
+/*-----------------------------------*\
+  #AGENCY & FOUNDER CUSTOM STYLES
+\*-----------------------------------*/
+
+.features-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+  margin-bottom: 35px;
+}
+
+@media (min-width: 580px) {
+  .features-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.feature-card {
+  position: relative;
+  background: var(--border-gradient-onyx);
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: var(--shadow-2);
+  z-index: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.feature-card::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  background: var(--bg-gradient-jet);
+  border-radius: inherit;
+  z-index: -1;
+}
+
+.feature-icon {
+  font-size: 24px;
+  color: var(--orange-yellow-crayola);
+  min-width: 24px;
+  margin-top: 2px;
+}
+
+.feature-card-text h4 {
+  color: var(--white-2);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-500);
+  margin-bottom: 5px;
+}
+
+.feature-card-text p {
+  color: var(--light-gray);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-300);
+  line-height: 1.5;
+}
+
+.whatsapp-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #25D366;
+  color: #ffffff !important;
+  font-weight: 500;
+  padding: 12px 22px;
+  border-radius: 12px;
+  font-size: var(--fs-6);
+  margin-top: 10px;
+  box-shadow: 0 4px 15px rgba(37, 211, 102, 0.3);
+  transition: transform var(--transition-1), opacity var(--transition-1);
+}
+
+.whatsapp-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.95;
+}
+
+.whatsapp-btn ion-icon {
+  font-size: 20px;
+}
+
+.contact-quick-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 25px;
+}
