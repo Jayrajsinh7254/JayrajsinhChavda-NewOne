@@ -140,20 +140,32 @@ for (let i = 0; i < formInputs.length; i++) {
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
 
+const activatePage = function (targetPage) {
+  for (let i = 0; i < pages.length; i++) {
+    if (targetPage.toLowerCase() === pages[i].dataset.page) {
+      pages[i].classList.add("active");
+      if (navigationLinks[i]) navigationLinks[i].classList.add("active");
+      window.scrollTo(0, 0);
+    } else {
+      pages[i].classList.remove("active");
+      if (navigationLinks[i]) navigationLinks[i].classList.remove("active");
+    }
+  }
+};
+
 // add event to all nav link
 for (let i = 0; i < navigationLinks.length; i++) {
   navigationLinks[i].addEventListener("click", function () {
-
-    for (let i = 0; i < pages.length; i++) {
-      if (this.innerHTML.toLowerCase() === pages[i].dataset.page) {
-        pages[i].classList.add("active");
-        navigationLinks[i].classList.add("active");
-        window.scrollTo(0, 0);
-      } else {
-        pages[i].classList.remove("active");
-        navigationLinks[i].classList.remove("active");
-      }
-    }
-
+    const pageName = this.innerHTML.trim().toLowerCase();
+    activatePage(pageName);
+    window.location.hash = pageName;
   });
 }
+
+// check URL hash on initial load
+window.addEventListener("DOMContentLoaded", function () {
+  const hash = window.location.hash.replace("#", "").trim().toLowerCase();
+  if (hash) {
+    activatePage(hash);
+  }
+});
